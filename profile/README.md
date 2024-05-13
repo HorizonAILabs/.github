@@ -1,14 +1,13 @@
-![huge (2)](https://github.com/HorizonAILabs/.github/assets/84516626/5c397111-d78c-4291-bcd2-e33db11876a0)
-# HorizonAI Labs
-Welcome to HorizonAI Labs! We're a dynamic startup on a mission to utilize the transformative potential of artificial intelligence to address global challenges. Our motto, "Empowering Lives through AI," reflects our commitment to making a positive impact on society through innovation and technology.
+# Linear AI
+Welcome to Linear AI! We're a dynamic startup on a mission to utilize the transformative potential of artificial intelligence to address global challenges. Our motto, "Empowering Lives through AI," reflects our commitment to making a positive impact on society through innovation and technology.
 
 ## About Us
 
-Horizon AI Labs was born out of a vision to revolutionize industries and improve lives through AI-driven solutions. As a startup, we're agile, creative, and driven by a shared passion for harnessing the power of AI for social good.
+Linear AI was born out of a vision to revolutionize industries and improve lives through AI-driven solutions. As a startup, we're agile, creative, and driven by a shared passion for harnessing the power of AI for social good.
 
 ## Our Focus
 
-At Horizon AI Labs, we prioritize providing solutions for daily needs. Our flagship product, **HorizonOne**, is a real-time AI companion designed to assist users in their everyday tasks and activities. *Work In Progess*
+At Linear AI, we prioritize providing solutions for daily needs. Our flagship product, **LinearOne**, is a real-time AI companion designed to assist users in their everyday tasks and activities. *Work In Progress*
 
 ## Our Approach
 
@@ -24,13 +23,13 @@ Our approach is characterized by innovation, collaboration, and a relentless pur
 
 ## Join Us
 
-Are you passionate about AI and its potential to drive social impact? Join us on our journey to build a better future with technology. Whether you're a data scientist, software engineer, designer, or business strategist, there's a place for you at Horizon AI Labs.
+Are you passionate about AI and its potential to drive social impact? Join us on our journey to build a better future with technology. Whether you're a data scientist, software engineer, designer, or business strategist, there's a place for you at Linear AI.
 
 ## Contact Us
 
-Interested in learning more about Horizon AI Labs or exploring partnership opportunities? Get in touch with us today!
+Interested in learning more about Linear AI or exploring partnership opportunities? Get in touch with us today!
 
 Email: shreyasrd31@gmail.com  
-Website: [https://horizonlabs.my.canva.site/horizonone](https://horizonlabs.my.canva.site/horizonone)
+Website: [https://linearai.my.canva.site/linearone](https://linearai.my.canva.site/linearone)
 
-Thank you for considering Horizon AI Labs. Together, we can make a difference with AI.
+Thank you for considering Linear AI. Together, we can make a difference with AI.
